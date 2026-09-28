@@ -1,5 +1,5 @@
 ## Hi, I'm Ao Lei 👋
-I am a first-year master's student focusing on reinforcement learning for robotic control, with a strong interest in bridging the gap between theory and real-world applications.During my undergraduate studies, I majored in Automation and gained hands-on experience in robotics research and engineering projects. I was also awarded the First Prize in the National College Students Engineering Practice and Innovation Competition.My current interests include robot learning, reinforcement learning, intelligent control, and real-world robotic systems.
+I am a first-year master's student focusing on ** reinforcement learning for robotic control **, with a strong interest in bridging the gap between theory and real-world applications.During my undergraduate studies, I majored in Automation and gained hands-on experience in robotics research and engineering projects. I was also awarded the First Prize in the National College Students Engineering Practice and Innovation Competition.My current interests include robot learning, reinforcement learning, intelligent control, and real-world robotic systems.
 
 <!--
 **Lei-Ao/Lei-Ao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
